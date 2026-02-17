@@ -1,4 +1,6 @@
 #EXTM3U
+# ===== GENERAL =====
+
 # ===== CHAQUENO PALAVECINO =====
 #EXTINF:-1,EL CHAQUEÑO PALAVECINO 001 A DON AMANCIO [CHAQUENO PALAVECINO]
 https://archive.org/download/chaqueno-palavecino/El%20Chaque%C3%B1o%20Palavecino%20-%20001%20A%20Don%20Amancio.mp3
@@ -1496,3 +1498,107 @@ https://archive.org/download/comadres_202602/LOS%20LLAJUAS%20-%20COMADRES%202023
 https://archive.org/download/comadres_202602/LOS%20LLAJUAS%20-%20ESPECIAL%20COMADRES%205ta%20version.mp3
 #EXTINF:-1,LLAJUAS - FELIZ COMADRES [COPLAS COMADRES]
 https://archive.org/download/comadres_202602/LOS%20LLAJUAS%20-%20FELIZ%20DIA%20COMADRES.mp3
+
+# ===== TURROMANTICOS =====
+#EXTINF:-1,TURROMANTIKOS   AMOR AÑEJO [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20Amor%20A%C3%B1ejo.mp3
+#EXTINF:-1,TURROMANTIKOS   CAMBIO MI CORAZÓN   QUE NADIE SE ENTERE   TE CONOZCO BIEN (REMIX) [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20Cambio%20Mi%20Coraz%C3%B3n%20_%20Que%20Nadie%20Se%20Entere%20_%20Te%20Conozco%20Bien%20%28ReMiX%29.mp3
+#EXTINF:-1,TURROMANTIKOS   CAMBIO MI CORAZÓN [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20Cambio%20Mi%20Coraz%C3%B3n.mp3
+#EXTINF:-1,TURROMANTIKOS   CHICA VACILONA [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20Chica%20Vacilona.mp3
+#EXTINF:-1,TURROMANTIKOS   GRACIAS   TÚ CON ÉL (REMIX) [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20Gracias%20_%20T%C3%BA%20Con%20%C3%89l%20%28ReMiX%29.mp3
+#EXTINF:-1,TURROMANTIKOS   GRACIAS [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20Gracias.mp3
+#EXTINF:-1,TURROMANTIKOS   OTRA NOCHE SIN TI   AMOR AÑEJO (REMIX) [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20Otra%20Noche%20Sin%20Ti%20_%20Amor%20A%C3%B1ejo%20%28ReMiX%29.mp3
+#EXTINF:-1,TURROMANTIKOS   OTRA NOCHE SIN TI [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20Otra%20Noche%20Sin%20Ti.mp3
+#EXTINF:-1,TURROMANTIKOS   QUE NADIE SE ENTERE [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20Que%20Nadie%20Se%20Entere.mp3
+#EXTINF:-1,TURROMANTIKOS   TE CONOZCO BIEN [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20Te%20Conozco%20Bien.mp3
+#EXTINF:-1,TURROMANTIKOS   TÚ CON ÉL [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20T%C3%BA%20Con%20%C3%89l.mp3
+#EXTINF:-1,TURROMANTIKOS   TÚ LLEGASTE, CUANDO MENOS TE ESPERABA [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20T%C3%BA%20Llegaste%2C%20Cuando%20Menos%20Te%20Esperaba.mp3
+#EXTINF:-1,TURROMANTIKOS   UNA FAN ENAMORADA [TURROMANTICOS]
+https://archive.org/download/turromantikos/Turromantikos%20-%20Una%20Fan%20Enamorada.mp3
+
+# ===== EXPLOSION CUMBIERA =====
+#EXTINF:-1,00   0 EXPLOSIÓN CUMBIERA ♪ YA SERA TARDE ♪ 2024 ♪ [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/00%20-%200%20Explosi%C3%B3n%20Cumbiera%20%E2%99%AA%20Ya%20Sera%20Tarde%20%E2%99%AA%202024%20%E2%99%AA.mp3
+#EXTINF:-1,000    EXPLOSIÓN CUMBIERA    JURARÉ NO AMARTE MÁS (2024)(MP3 128K) [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/000%20%20-%20Explosi%C3%B3n%20Cumbiera%20%20-%20Jurar%C3%A9%20No%20Amarte%20M%C3%A1s%20%282024%29%28MP3_128K%29.mp3
+#EXTINF:-1,000 NO VAS A CAMBIAR   EXPLOSIÓN CUMBIERA   CUMBIA 2025 🔥 [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/000%20No%20Vas%20a%20Cambiar%20-%20Explosi%C3%B3n%20Cumbiera%20%20%20Cumbia%202025%20%F0%9F%94%A5.mp3
+#EXTINF:-1,013 EXPLOSIÓN CUMBIERA ♪ ÁMAME ♪ 2023 ♪ [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/013%20Explosi%C3%B3n%20Cumbiera%20%E2%99%AA%20%C3%81mame%20%E2%99%AA%202023%20%E2%99%AA.mp3
+#EXTINF:-1,014 EXPLOSIÓN CUMBIERA ♪ MIS CUERNOS ♪ 2023 ♪ [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/014%20Explosi%C3%B3n%20Cumbiera%20%E2%99%AA%20Mis%20Cuernos%20%E2%99%AA%202023%20%E2%99%AA.mp3
+#EXTINF:-1,015 EXPLOSIÓN CUMBIERA ♪ MIX IBERIA (DILE, COMPÁRAME, CHICA [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/015%20EXPLOSI%C3%93N%20CUMBIERA%20%E2%99%AA%20MIX%20IBERIA%20%28Dile%2C%20Comp%C3%A1rame%2C%20Chica%20.mp3
+#EXTINF:-1,017 EXPLOSION CUMBIERA  ♪ ME ARREPIENTO   RUEGA POR NOSOTROS [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/017%20Explosion%20Cumbiera%20%20%E2%99%AA%20Me%20arrepiento%20-%20Ruega%20por%20nosotros.mp3
+#EXTINF:-1,018 EXPLOSION CUMBIERA ♪ (NEGRO CAMINO, MIGAJAS DE AMOR Y HO [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/018%20Explosion%20Cumbiera%20%E2%99%AA%20%28Negro%20camino%2C%20Migajas%20de%20amor%20y%20Ho.mp3
+#EXTINF:-1,019 EXPLOSION CUMBIERA & FRAGANCIA ♪ HOMENAJE A LUIS CARRIÓN [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/019%20Explosion%20Cumbiera%20%26%20Fragancia%20%E2%99%AA%20Homenaje%20a%20Luis%20Carri%C3%B3n.mp3
+#EXTINF:-1,020 EXPLOSION CUMBIERA ♪ MIX DADOS NEGROS ♪ 2022 ♪ [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/020%20Explosion%20Cumbiera%20%E2%99%AA%20Mix%20Dados%20Negros%20%E2%99%AA%202022%20%E2%99%AA.mp3
+#EXTINF:-1,021 MAROYU & EXPLOSIÓN CUMBIERA ♪ ENAMORADO DE TI, EL DOMING [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/021%20Maroyu%20%26%20Explosi%C3%B3n%20Cumbiera%20%E2%99%AA%20enamorado%20de%20ti%2C%20el%20doming.mp3
+#EXTINF:-1,023 EXPLOSION CUMBIERA ♪ HE SENTIDO AMOR ♪ 2023 ♪ [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/023%20Explosion%20Cumbiera%20%E2%99%AA%20He%20sentido%20amor%20%E2%99%AA%202023%20%E2%99%AA.mp3
+#EXTINF:-1,024 EXPLOSION CUMBIERA ♪ MÁRCHATE ♪ 2023 ♪ [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/024%20Explosion%20Cumbiera%20%E2%99%AA%20M%C3%A1rchate%20%E2%99%AA%202023%20%E2%99%AA.mp3
+#EXTINF:-1,025 EXPLOSION CUMBIERA ♪ SOLO QUIERO OLVIDARLA ♪ 2023 ♪ [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/025%20Explosion%20Cumbiera%20%E2%99%AA%20Solo%20quiero%20olvidarla%20%E2%99%AA%202023%20%E2%99%AA.mp3
+#EXTINF:-1,095 EXPLOSION CUMBIERA & FRAGANCIA ♪ HOMENAJE A LUIS CARRIÓN [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/095%20Explosion%20Cumbiera%20%26%20Fragancia%20%E2%99%AA%20Homenaje%20a%20Luis%20Carri%C3%B3n.mp3
+#EXTINF:-1,097 EXPLOSIÓN CUMBIERA ♪ BUSCARÉ OTRO QUERER ♪ SE QUE NO VENDRÁS ♪ 2024 ♪ [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/097%20Explosi%C3%B3n%20Cumbiera%20%E2%99%AA%20BUSCAR%C3%89%20OTRO%20QUERER%20%E2%99%AA%20SE%20QUE%20NO%20VENDR%C3%81S%20%E2%99%AA%202024%20%E2%99%AA.mp3
+#EXTINF:-1,EXPLOSION CUMBIERA    MIX DADOS NEGROS [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/Explosion%20Cumbiera%20%20-%20Mix%20Dados%20Negros.mp3
+#EXTINF:-1,EXPLOSION CUMBIERA    MIX RECUERDOS (NEGRO CAMINO  MIGAJAS DE AMOR Y HOMBRE SOLITARIO)(MP3 128K) [EXPLOSION CUMBIERA]
+https://archive.org/download/excumbiera/Explosion%20Cumbiera%20%20-%20Mix%20Recuerdos%20%28Negro%20camino_%20Migajas%20de%20amor%20y%20Hombre%20solitario%29%28MP3_128K%29.mp3
+
+# ===== JILAKATAS =====
+#EXTINF:-1,JILAKATAS   LA PILDORITA VIDEOCLIP OFICIAL ( MORENADA 2025 ) [JILAKATAS]
+https://archive.org/download/jilakatas/JILAKATAS%20-%20La%20Pildorita%20Videoclip%20Oficial%20%28%20Morenada%202025%20%29.mp3
+#EXTINF:-1,JILAKATAS   CASCABELES (CAPORAL) [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20Cascabeles%20%28Caporal%29.mp3
+#EXTINF:-1,JILAKATAS   CHUTO NOMÁS (VIDEO OFICIAL) SALAY [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20Chuto%20Nom%C3%A1s%20%28Video%20Oficial%29%20salay.mp3
+#EXTINF:-1,JILAKATAS   LA COSA ESTA DURA COPLAS 2026 [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20La%20Cosa%20Esta%20Dura%20Coplas%202026.mp3
+#EXTINF:-1,JILAKATAS   LA COSA ESTA DURA SEGUNDA PARTE COPLAS 2026 [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20La%20Cosa%20Esta%20Dura%20segunda%20parte%20coplas%202026.mp3
+#EXTINF:-1,JILAKATAS   LA PILDORITA (VIDEO CON LETRA) [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20La%20Pildorita%20%28Video%20con%20Letra%29.mp3
+#EXTINF:-1,JILAKATAS   LE DAREMOS ( COPLAS DE CARNAVAL 2025 PARTE 2  ) [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20Le%20Daremos%20%28%20Coplas%20de%20carnaval%202025%20Parte%202%20%20%29.mp3
+#EXTINF:-1,JILAKATAS   LE DAREMOS ( COPLAS DE CARNAVAL 2025 ). [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20Le%20Daremos%20%28%20coplas%20de%20carnaval%202025%20%29..mp3
+#EXTINF:-1,JILAKATAS   LE DAREMOS COPLAS 2025 ( VIDEO OFICIAL ) CARNAVAL [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20Le%20Daremos%20Coplas%202025%20%28%20Video%20Oficial%20%29%20Carnaval.mp3
+#EXTINF:-1,JILAKATAS   LUNA DE PLATA (MORENADA) [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20Luna%20de%20Plata%20%28Morenada%29.mp3
+#EXTINF:-1,JILAKATAS   MARIA ANTONIETA (MORENADA) [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20Maria%20Antonieta%20%28Morenada%29.mp3
+#EXTINF:-1,JILAKATAS   MORENITA TIKTOKERA (MORENADA 2024) [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20Morenita%20Tiktokera%20%28Morenada%202024%29.mp3
+#EXTINF:-1,JILAKATAS   POTOLO Y COQUETO [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20Potolo%20y%20Coqueto.mp3
+#EXTINF:-1,JILAKATAS   SEÑOR DE MAYO (MORENADA 2025   2026) FRATERNIDAD ARTÍSTICAS Y CULTURAL TRANSPORTE PESADO [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20Se%C3%B1or%20de%20Mayo%20%28Morenada%202025%20-%202026%29%20Fraternidad%20Art%C3%ADsticas%20y%20cultural%20transporte%20pesado.mp3
+#EXTINF:-1,JILAKATAS   SOLTAME COPLAS (SEGUNDA PARTE) 2024 CARNAVAL [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20Soltame%20Coplas%20%28Segunda%20Parte%29%202024%20Carnaval.mp3
+#EXTINF:-1,JILAKATAS   SOLTERITO [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20Solterito.mp3
+#EXTINF:-1,JILAKATAS   WHATSAPPERITA (CH'OTOJ CH'ATAJ) SALAY [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20-%20WhatsApperita%20%28Ch%27otoj%20Ch%27ataj%29%20salay.mp3
+#EXTINF:-1,JILAKATAS FEAT. BETTY VEIZAGA   CARNAVAL MUNDO DENTAL 2026 [JILAKATAS]
+https://archive.org/download/jilakatas/Jilakatas%20Feat.%20Betty%20Veizaga%20-%20Carnaval%20Mundo%20Dental%202026.mp3
